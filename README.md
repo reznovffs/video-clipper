@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 AI Video Clipper
 
 A fully local desktop app: upload a long video (podcast, interview, stream, course...)
@@ -222,3 +223,6 @@ Practical tips for an hour-long video:
   Windows; pick a standard one (Arial, Verdana) or install the font first.
 - **First run is slow** → Whisper downloads the model weights once and caches them
   (in `%USERPROFILE%\.cache\whisper`); subsequent runs are much faster to start.
+=======
+# video-clipper
+>>>>>>> c07c8f4d092adf754ac44cb8946b85b9da55df92
