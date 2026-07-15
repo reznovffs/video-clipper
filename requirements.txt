@@ -1,0 +1,7 @@
+faster-whisper
+gradio>=4.0.0
+numpy
+
+# Optional: only needed if you want GPU acceleration (NVIDIA + CUDA).
+# Without it, faster-whisper still runs great on CPU with int8 quantization.
+# torch
